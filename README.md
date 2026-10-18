@@ -6,7 +6,7 @@ Plataforma web que conecta a agricultura familiar aos mercados: o produtor cadas
 
 **Autores**
 - **Stephanie Caroline**: front-end (React)
-- **Lucas Gabriel Santos de Andrade**: back-end (Node.js + Express) e organização do projeto
+- **Lucas Gabriel e Joana Daniely**: back-end (Node.js + Express) e organização do projeto
 
 ## 1. Problema escolhido (Banco de BOs)
 
