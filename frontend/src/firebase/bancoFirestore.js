@@ -1,4 +1,3 @@
-
 import {
   collection, doc, onSnapshot, addDoc, updateDoc, deleteDoc, setDoc, getDocs, writeBatch,
 } from 'firebase/firestore'
@@ -17,7 +16,6 @@ const emPedacos = (lista, tamanho = 400) => {
   for (let i = 0; i < lista.length; i += tamanho) out.push(lista.slice(i, i + tamanho))
   return out
 }
-
 
 // Avisa sempre que a coleção muda (inclusive quando outra aba ou pessoa altera).
 export function ouvirColecao(uid, nome, aoMudar, aoFalhar) {
