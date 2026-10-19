@@ -5,8 +5,10 @@ Plataforma web que conecta a agricultura familiar aos mercados: o produtor cadas
 **Disciplina:** NOME DA DISCIPLINA · **Professor(a):** NOME DO PROFESSOR
 
 **Autores**
-- **Stephanie Caroline**: front-end (React)
-- **Lucas Gabriel e Joana Daniely**: back-end (Node.js + Express) e organização do projeto
+- **Stephanie Caroline** 01856266
+front-end (React)
+- **Lucas Gabriel: 91854148
+  Joana Daniely - 01832586: back-end (Node.js + Express) e organização do projeto
 
 ## 1. Problema escolhido (Banco de BOs)
 
